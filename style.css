@@ -397,6 +397,12 @@ footer{
     .card-hide{
         font-weight: 400
     }
+    .footer-title{
+        font-weight: 400;
+    }
+    .footer-subtitle{
+        font-weight: 300;
+    }
 }
 
 /*mobile*/
@@ -563,6 +569,12 @@ footer{
     }
     .card-hide{
         font-weight: 400
+    }
+    .footer-title{
+        font-weight: 400;
+    }
+    .footer-subtitle{
+        font-weight: 300;
     }
 
 }
